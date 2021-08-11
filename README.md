@@ -1,5 +1,5 @@
 # study-django
-Django 한그릇 뚝딱 책 리뷰 용 문서 입니다.
+References: Django 한그릇 뚝딱 책 리뷰, [점프 투 장고](https://wikidocs.net/book/4223)
 
 # Chapter 1
 - 튜플 자료형
